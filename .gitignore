@@ -1,0 +1,5 @@
+target/
+.idea
+*.iml
+module/mer-client/build/
+module/mer-client/node_modules/
