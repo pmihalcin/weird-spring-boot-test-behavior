@@ -10,3 +10,5 @@ The thing is I can see that `FailureSimulator` is in `ApplicationContext` when I
 
 When I add `@DirtiestContext` annotation on `SpecificMerchantCriterionPagedResourcesProcessorSpec` and reexecute previous batch, it works.
 So by putting annotation on a test which doesn't fail, I fix the other test.
+
+[run configuration]: ./idea-run-config-both-tests.PNG
